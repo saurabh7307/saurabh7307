@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saurabh
-- 👀 I’m interested in SDET.
+- 👀 I’m worked as MTS-SDET.
 - 🌱 I’m currently learning Testing and Automation, Scripting also working as an SDET.
 - 📫 You can reach out me through email id that is sau7307@gmail.com.
 
